@@ -143,6 +143,10 @@ footer {
   color: #F4743B;
 }
 
+.news .titulonew{
+  text-align: center;
+}
+
 .card {
   display: inline-block;
   background-color: white;
