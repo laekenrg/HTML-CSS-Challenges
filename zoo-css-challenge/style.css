@@ -111,9 +111,14 @@ footer {
   vertical-align: top;
   border: 5px solid #747c92;
 }
+.image-container .oso1 {border-color: rgb(73, 218, 210);}
+
+.image-container .oso2 {border-color: rgb(61, 147, 197);}
+
+.image-container .oso3 {border-color: #a95bdd;}
 
 .image-container img:first-of-type {
-  vertical-align: bottom;
+  vertical-align: top;
 }
 
 .tigers {
