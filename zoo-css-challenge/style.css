@@ -147,6 +147,27 @@ footer {
   color: #F4743B;
 }
 
+.lions{
+  background-color: #ff7f11;
+
+}
+.lions p{
+  color: #BEEE62;
+  font-size: 15pt;
+}
+.lions h2{
+  color: #fbff08;
+  font-size: 30pt;
+}
+
+.image-container .lion1 {border-color: #f0e100;
+margin-right: 80px;
+margin-left: 90px;}
+
+.image-container .lion2 {border-color: #f0e100;
+}
+
+
 .news .titulonew{
   text-align: center;
 }
