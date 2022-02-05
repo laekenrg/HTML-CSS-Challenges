@@ -100,11 +100,13 @@ footer {
   justify-content: center;
   align-content: center;
   flex-direction: column;
+  transition: all 1s ease;
 }
 
 #badge:hover {
-  background-color: #fdfd9f;
+  background-color: #0051ff;
 }
+
 
 #badge p {
   text-align: center;
